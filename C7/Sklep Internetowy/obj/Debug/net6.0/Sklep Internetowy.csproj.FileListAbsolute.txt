@@ -1,0 +1,15 @@
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C1\Sklep Internetowy\bin\Debug\net6.0\Sklep Internetowy.exe
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C1\Sklep Internetowy\bin\Debug\net6.0\Sklep Internetowy.deps.json
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C1\Sklep Internetowy\bin\Debug\net6.0\Sklep Internetowy.runtimeconfig.json
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C1\Sklep Internetowy\bin\Debug\net6.0\Sklep Internetowy.dll
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C1\Sklep Internetowy\bin\Debug\net6.0\Sklep Internetowy.pdb
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C1\Sklep Internetowy\obj\Debug\net6.0\Sklep Internetowy.csproj.AssemblyReference.cache
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C1\Sklep Internetowy\obj\Debug\net6.0\Sklep Internetowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C1\Sklep Internetowy\obj\Debug\net6.0\Sklep Internetowy.AssemblyInfoInputs.cache
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C1\Sklep Internetowy\obj\Debug\net6.0\Sklep Internetowy.AssemblyInfo.cs
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C1\Sklep Internetowy\obj\Debug\net6.0\Sklep Internetowy.csproj.CoreCompileInputs.cache
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C1\Sklep Internetowy\obj\Debug\net6.0\Sklep Internetowy.dll
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C1\Sklep Internetowy\obj\Debug\net6.0\refint\Sklep Internetowy.dll
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C1\Sklep Internetowy\obj\Debug\net6.0\Sklep Internetowy.pdb
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C1\Sklep Internetowy\obj\Debug\net6.0\Sklep Internetowy.genruntimeconfig.cache
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C1\Sklep Internetowy\obj\Debug\net6.0\ref\Sklep Internetowy.dll

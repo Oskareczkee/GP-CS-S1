@@ -1,0 +1,11 @@
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C7\Zgadywanka\bin\Debug\Zgadywanka.exe.config
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C7\Zgadywanka\bin\Debug\Zgadywanka.exe
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C7\Zgadywanka\bin\Debug\Zgadywanka.pdb
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C7\Zgadywanka\obj\Debug\Zgadywanka.csproj.AssemblyReference.cache
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C7\Zgadywanka\obj\Debug\Zgadywanka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C7\Zgadywanka\obj\Debug\Zgadywanka.Properties.Resources.resources
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C7\Zgadywanka\obj\Debug\Zgadywanka.csproj.GenerateResource.cache
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C7\Zgadywanka\obj\Debug\Zgadywanka.csproj.CoreCompileInputs.cache
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C7\Zgadywanka\obj\Debug\Zgadywanka.exe
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C7\Zgadywanka\obj\Debug\Zgadywanka.pdb
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C7\Zgadywanka\obj\Debug\Zgadywanka.MainForm.resources

@@ -1,0 +1,17 @@
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\bin\Debug\net6.0-windows\Rozgrzeweczka.exe
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\bin\Debug\net6.0-windows\Rozgrzeweczka.deps.json
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\bin\Debug\net6.0-windows\Rozgrzeweczka.runtimeconfig.json
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\bin\Debug\net6.0-windows\Rozgrzeweczka.dll
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\bin\Debug\net6.0-windows\Rozgrzeweczka.pdb
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\obj\Debug\net6.0-windows\Rozgrzeweczka.csproj.AssemblyReference.cache
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\obj\Debug\net6.0-windows\Rozgrzeweczka.Form1.resources
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\obj\Debug\net6.0-windows\Rozgrzeweczka.csproj.GenerateResource.cache
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\obj\Debug\net6.0-windows\Rozgrzeweczka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\obj\Debug\net6.0-windows\Rozgrzeweczka.AssemblyInfoInputs.cache
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\obj\Debug\net6.0-windows\Rozgrzeweczka.AssemblyInfo.cs
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\obj\Debug\net6.0-windows\Rozgrzeweczka.csproj.CoreCompileInputs.cache
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\obj\Debug\net6.0-windows\Rozgrzeweczka.dll
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\obj\Debug\net6.0-windows\refint\Rozgrzeweczka.dll
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\obj\Debug\net6.0-windows\Rozgrzeweczka.pdb
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\obj\Debug\net6.0-windows\Rozgrzeweczka.genruntimeconfig.cache
+C:\Users\Hal9000\Desktop\Korki\C#Sem1\C6\Rozgrzeweczka\obj\Debug\net6.0-windows\ref\Rozgrzeweczka.dll
